@@ -1,2 +1,3 @@
 # BitFusion_6Bit
-6 Bit support for Bit Fusion Architecture
+
+This work entails the design of the compiler for supporting 6 bits within the bitfusion architecture. This is primarily only for the purposes of simulation
