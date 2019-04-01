@@ -1,0 +1,5 @@
+There are 8 layers in the design 
+Amongst the 8 layers, there are 2 Conv2D layers in the design 
+Amongst the 8 layers, there are 2 pooling layers in the design 
+Amongst the 8 layers, there are 1 flattening layers in the design 
+Amongst the 8 layers, there are 3 flattening layers in the design 
